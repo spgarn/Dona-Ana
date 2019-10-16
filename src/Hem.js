@@ -31,7 +31,7 @@ function Hem() {
         </div>
         <div className="Div-Boxar">
 <div className="Titel1">Stöd Fondation Dona Ana</div>
-<div>Swisha till : 0700123456</div>
+<div>Swisha till : 123 056 1472</div>
 <div>
   <img style={{width:"200px"}} alt="" src="https://www.getswish.se/content/uploads/2018/07/swish_vertical_main_rgb.png"></img>
 </div>
