@@ -88,3 +88,5 @@
     padding: 20px 500px 65px;
   }
 }
+
+@import "~react-image-gallery/styles/css/image-gallery.css";
